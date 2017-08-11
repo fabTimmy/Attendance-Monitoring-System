@@ -1,0 +1,33 @@
+detailstb
+	title
+	name
+	status
+	unit/dept
+	gender
+	email
+	image
+	password
+	address
+	phone
+	date_regd
+	
+attendancetb
+	'title
+	'name
+	'unit/dept
+	'status
+	'date
+	'time_in
+	'image
+
+reporttb
+	title
+	name
+	status
+	unit/dept	
+	gender	
+	image
+	date
+	time_in
+	time_out
+	
